@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430" width="720" height="430" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="720" height="430" fill="#ffffff"/>
+<line x1="160" y1="30" x2="320" y2="30" stroke="#222222" stroke-width="1.2"/>
+<line x1="160" y1="25" x2="160" y2="35" stroke="#222222" stroke-width="1.2"/>
+<line x1="320" y1="25" x2="320" y2="35" stroke="#222222" stroke-width="1.2"/>
+<text x="240" y="22" font-size="13" fill="#222222" text-anchor="middle">1 pulse = 4 sayım (100 pulse/tur → 400 sayım/tur)</text>
+<text x="20" y="54" font-size="15" font-weight="bold" fill="#222222">CW: A, B'den 90° önde → sayaç artar</text>
+<line x1="160" y1="72" x2="160" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="200" y1="72" x2="200" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="240" y1="72" x2="240" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="280" y1="72" x2="280" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="320" y1="72" x2="320" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="360" y1="72" x2="360" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="400" y1="72" x2="400" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="440" y1="72" x2="440" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="480" y1="72" x2="480" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="520" y1="72" x2="520" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="560" y1="72" x2="560" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="600" y1="72" x2="600" y2="178" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<text x="20" y="102" font-size="14" fill="#1f6feb">A (PA0)</text>
+<text x="20" y="157" font-size="14" fill="#d9480f">B (PA1)</text>
+<text x="20" y="197" font-size="14" fill="#222222">TIM2 sayacı</text>
+<path d="M120,110 L160,110 L160,80 L240,80 L240,110 L320,110 L320,80 L400,80 L400,110 L480,110 L480,80 L560,80 L560,110 L650,110" fill="none" stroke="#1f6feb" stroke-width="2.5"/>
+<path d="M120,165 L200,165 L200,135 L280,135 L280,165 L360,165 L360,135 L440,135 L440,165 L520,165 L520,135 L600,135 L600,165 L650,165" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="120" y="197" font-size="13" fill="#222222" text-anchor="middle">0</text>
+<text x="180.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+1</text>
+<text x="220.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+2</text>
+<text x="260.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+3</text>
+<text x="300.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+4</text>
+<text x="340.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+5</text>
+<text x="380.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+6</text>
+<text x="420.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+7</text>
+<text x="460.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+8</text>
+<text x="500.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+9</text>
+<text x="540.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+10</text>
+<text x="580.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+11</text>
+<text x="620.0" y="197" font-size="13" fill="#222222" text-anchor="middle">+12</text>
+<text x="20" y="239" font-size="15" font-weight="bold" fill="#222222">CCW: B, A'dan 90° önde → sayaç azalır</text>
+<line x1="160" y1="257" x2="160" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="200" y1="257" x2="200" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="240" y1="257" x2="240" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="280" y1="257" x2="280" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="320" y1="257" x2="320" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="360" y1="257" x2="360" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="400" y1="257" x2="400" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="440" y1="257" x2="440" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="480" y1="257" x2="480" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="520" y1="257" x2="520" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="560" y1="257" x2="560" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<line x1="600" y1="257" x2="600" y2="363" stroke="#b0b0b0" stroke-dasharray="3,3"/>
+<text x="20" y="287" font-size="14" fill="#1f6feb">A (PA0)</text>
+<text x="20" y="342" font-size="14" fill="#d9480f">B (PA1)</text>
+<text x="20" y="382" font-size="14" fill="#222222">TIM2 sayacı</text>
+<path d="M120,295 L200,295 L200,265 L280,265 L280,295 L360,295 L360,265 L440,265 L440,295 L520,295 L520,265 L600,265 L600,295 L650,295" fill="none" stroke="#1f6feb" stroke-width="2.5"/>
+<path d="M120,350 L160,350 L160,320 L240,320 L240,350 L320,350 L320,320 L400,320 L400,350 L480,350 L480,320 L560,320 L560,350 L650,350" fill="none" stroke="#d9480f" stroke-width="2.5"/>
+<text x="120" y="382" font-size="13" fill="#222222" text-anchor="middle">0</text>
+<text x="180.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-1</text>
+<text x="220.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-2</text>
+<text x="260.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-3</text>
+<text x="300.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-4</text>
+<text x="340.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-5</text>
+<text x="380.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-6</text>
+<text x="420.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-7</text>
+<text x="460.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-8</text>
+<text x="500.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-9</text>
+<text x="540.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-10</text>
+<text x="580.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-11</text>
+<text x="620.0" y="382" font-size="13" fill="#222222" text-anchor="middle">-12</text>
+<text x="20" y="416" font-size="12.5" fill="#555555">Her kenarda (A↑ B↑ A↓ B↓) sayaç 1 değişir. Yönü, kenar anında diğer kanalın seviyesi belirler.</text>
+</svg>
